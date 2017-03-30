@@ -13,6 +13,10 @@ This is a work in progress, and is mostly a means for me to document my current 
   - [osxc](https://github.com/osxc)
   - [MWGriffin/ansible-playbooks](https://github.com/MWGriffin/ansible-playbooks) (the original inspiration for this project)
 
+## Fast Installation
+
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/tommyziegler/laptop/master/install.sh)"
+
 ## Installation
 
   1. [Install Ansible](http://docs.ansible.com/intro_installation.html).
